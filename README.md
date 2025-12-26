@@ -13,4 +13,4 @@ Responsive sidebar navigation menu using pure HTML & CSS.
 - CSS3
 
 ## Live Demo
-https://USERNAME.github.io/sidebar-menu-project/
+https://firefox-shubhendra.github.io/sidebar-menu-project/
